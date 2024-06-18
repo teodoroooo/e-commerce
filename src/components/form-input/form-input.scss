@@ -1,0 +1,12 @@
+.form-input-container {
+  display: flex;
+  flex-direction: column;
+
+  .form-input {
+    height: 40px;
+    width: 400px;
+    border-radius: 4px;
+    border: 1px solid #e3e3e3;
+    padding: 8px;
+  }
+}
